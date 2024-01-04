@@ -57,7 +57,7 @@ theme.
 	44. WORK US
 	45. TEAM
 	46. LATEST NEWS
-	47. OUR OFFICES
+	47. Nos Offices
 	48. CAREER
 	49. SUPPORT
 	50. ON PRESS
@@ -847,7 +847,7 @@ button[type="submit"]:hover{ background: transparent; color: #ffbb3f; border: 2p
 
 
 
-/* OUR OFFICES */
+/* Nos Offices */
 .our-offices{ width: 100%; float: left; padding: 100px 0; text-align: center;}
 .our-offices h6{ text-transform: uppercase; font-weight: 700; font-size: 14px; letter-spacing: 0.4px; color: #3d404e; position: relative; padding-bottom: 30px; color: #9193a4; text-align: center;}
 .our-offices h6:after{content: ''; width: 30px; height: 3px; background: #ffbb3f; position: absolute; left: 50%; bottom: 0; margin-left: -15px;}
